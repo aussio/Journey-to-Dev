@@ -1,0 +1,3 @@
+[submodule "Journey-to-Dev.wiki"]
+	path = Journey-to-Dev.wiki
+	url = https://github.com/aussio/Journey-to-Dev.wiki.git
